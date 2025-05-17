@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '-Avalon in the Mists-',
-  domain: 'myavalon.blog',
+  domain: 'https://puddle-sprite-671.notion.site/Avalon-in-the-Mists-1ec9dc59b2ab8071abfde9f1491b10a2?pvs=4',
   author: 'Alexandria Lohengramm',
 
   // open graph metadata (optional)
